@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abhisek kumar
-- 👀 I’m interested in devops
-- 🌱 I’m currently learning data analytics
+- 👀 I’m interested in Devops
+- 🌱 I’m currently learning Data Science
 - 📫 you can reach me on linkedin(https://www.linkedin.com/in/abhisek-kumar-8560ab165/)
 
 <!---
