@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Abhisek Kumar
 - 👨‍💻 Software Engineer at Mphasis 
 - 👀 I’m interested in Data Analysis 
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m currently learning Data Science
 - 📫 You can reach me on linkedin(https://www.linkedin.com/in/abhisek-kumar-8560ab165/)
 
 <!---
